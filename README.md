@@ -42,6 +42,22 @@ Em atualização...
 
 ---
 
+## 📈 Métricas do GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=daianebadilho&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daianebadilho&layout=compact&theme=tokyonight" alt="Linguagens mais usadas" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=daianebadilho&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Contrib streak" />
+</p>
+
+---
+
 ## 🎯 Interesses
 
 - Desenvolvimento Full Stack
