@@ -22,9 +22,6 @@ Atualmente, me dedico a aprender com projetos reais e acadêmicos voltados a cau
 - Git e GitHub
 - VS Code
 - Figma (UI/UX)
-- Bootstrap (em estudos)
-- Conceitos de UX Design
-- Metodologias ágeis (Scrum - básico)
 
 ---
 
@@ -57,7 +54,7 @@ Em atualização...
 ## 🎯 Interesses
 
 - Desenvolvimento Full Stack
-- Reac.js e Nodo.js
+- React.js e Node.js
 - Aplicações com foco social (ONGs, educação, cultura)
 - Acessibilidade digital
 - Web responsiva e performance
