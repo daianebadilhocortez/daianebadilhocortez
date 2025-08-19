@@ -1,6 +1,6 @@
 # 👩‍💻 Daiane Souza Badilho Cortez
 
-🎓 Estudante de **Tecnologia em Sistemas para Internet** no **IFSP - Instituto Federal de Educação, Ciência e Tecnologia de São Paulo, Campus Birigui**  
+🎓 Estudante de **Tecnologia em Sistemas para Internet** no **IFSP - Instituto Federal de Educação, Ciência e Tecnologia de São Paulo, Campus Birigui-SP**  
 🌐 Foco em desenvolvimento web, interfaces modernas e projetos com impacto social.
 
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
