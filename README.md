@@ -11,7 +11,7 @@
 
 ## 🌟 Sobre mim
 
-Sou estudante do IFSP - Campus Birigui (SP), apaixonada por tecnologia, criatividade e desenvolvimento de soluções web.  
+Sou estudante do IFSP - Campus Birigui (SP) com foco em desenvolvimento de soluções web.  
 Atualmente, me dedico a aprender com projetos reais e acadêmicos voltados a causas sociais e culturais.
 
 ---
